@@ -2,3 +2,4 @@
 
 Testowy tekst do ćwiczenia commitów!!
 zmiana w branchu
+takze 3cim
